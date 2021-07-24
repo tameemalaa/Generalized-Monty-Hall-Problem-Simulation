@@ -17,3 +17,24 @@ The simulation then runs for (n) number of times, and each time picks a door the
  
 The win percentage for each strategy vs number of trials is plotted in real time 
 
+# Sample Run: 
+Times to play ? 10000 \
+Choose total number of doors : 3 \
+Total number of cars : 1 \
+Number of Doors to be opened : 1 
+
+## Output
+
+![image](https://user-images.githubusercontent.com/66860955/126853136-16bbeb8a-5858-4e98-9d7d-9756c46dba0d.png)
+
+### The simulation results in 10000 trials: 
+
+| Strategy      | Win percentage|       
+| ------------- | ------------- |                
+| Stay          | 34.04         |
+| Switch        | 65.96         |
+| Random        | 49.78         |
+
+| Theoritcal Switch win percentage | Simluation Switch win percentage |
+|--------------------------------- | -------------------------------- |
+|          66.66666666666666       |                65.96             | 
