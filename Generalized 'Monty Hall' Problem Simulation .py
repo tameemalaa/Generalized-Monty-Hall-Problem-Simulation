@@ -87,7 +87,7 @@ def main() :
 while True :
     main ()
     while True :
-        i=  input("Type 1 to run another simulation or  2 to terminate: ")
+        i=  input("Type 1 to run another simulation or 2 to terminate: ")
         if i == "1" :
             breaker = False
             break
