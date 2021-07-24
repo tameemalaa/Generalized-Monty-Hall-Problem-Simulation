@@ -2,7 +2,9 @@
  Generalized 'Monty Hall' problem simulation with graphing  and theortical value calculator for the switch strategy win percent
 
 # Theoretical Monty Hall Problem 
-The General formula for the problability of getting a car after switching is given by the formula : (C*(D-1))/(D(D-1-O)) where \
+The General formula for the problability of getting a car after switching is given by the formula : 
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-C(D-1)}{D(D-1-O)}" title="\Largex=\frac{-C(D-1)}{D(D-1-O)}" /> \
 •	Number of Doors(D) \
 •	Number of Cars(C) \
 •	Number of Doors to be opened by the host(O) \
