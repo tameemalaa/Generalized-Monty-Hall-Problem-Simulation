@@ -1,5 +1,5 @@
-# General Monty Hall Problem Simulation
- General 'Monty Hall' problem simulation with graphing  and theortical value calculator for the switch strategy win percent
+# Generalized Monty Hall Problem Simulation
+ Generalized 'Monty Hall' problem simulation with graphing  and theortical value calculator for the switch strategy win percent
 
 # Program Description: 
 The user defines the parameters for the problem:
