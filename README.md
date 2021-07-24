@@ -9,7 +9,12 @@ The General formula for the problability of getting a car after switching is giv
 •	Number of Cars(C) \
 •	Number of Doors to be opened by the host(O) \
 
-Additional Reading 
+Additional Reading: [Higher Variations of the Monty Hall Problem ](https://www.researchgate.net/publication/230656854_Higher_Variations_of_the_Monty_Hall_Problem_30_40_and_Empirical_Definition_of_the_Phenomenon_of_Mathematics_in_Boole%27s_Footsteps_as_Something_the_Brain_Does)
+
+# Installing requirements.txt:
+```bash
+pip install -r requirements.txt
+```
 
 # Program Description: 
 The user defines the parameters for the problem:
@@ -47,4 +52,7 @@ Number of Doors to be opened : 1
 
 | Theoritcal Switch win percentage | Simluation Switch win percentage |
 |--------------------------------- | -------------------------------- |
-|          66.66666666666666       |                65.96             | 
+|          66.66666666666666       |                65.96             |
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
